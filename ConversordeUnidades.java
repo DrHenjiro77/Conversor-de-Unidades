@@ -234,7 +234,7 @@ public class ConversordeUnidades{
                 while (true){
                     System.out.println("CONVERTENDO UNIDADES MÉTRICAS");
                     System.out.println(" ");
-                    System.out.println("[0]");
+                    System.out.println("[0] Para sair");
                     System.out.println("[1] De MM para KM");
                     System.out.println("[2] De KM para MM");
                     System.out.println("[3] De MM para M");
